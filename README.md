@@ -23,7 +23,7 @@
   <a href="https://https://www.linkedin.com/in/felippe-nobre-de-souza-66b8a017a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
           
-![snake gif](https://github.com/Felippe-nobre/Felippe-nobre/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
