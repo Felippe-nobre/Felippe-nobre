@@ -3,10 +3,10 @@
 - 🌱 estudando fron-end
 
 
-![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenogueira&show_icons=true&theme=dracula)
+![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felippe-nobre&show_icons=true&theme=dracula)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evenogueira&theme=dracula)](https://github.com/evenogueira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe-nobre&theme=dracula)](https://github.com/evenogueira/github-readme-stats)
 
 
 <div style="display: inline_block">
