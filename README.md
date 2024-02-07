@@ -1,6 +1,6 @@
 ### oi eu sou o Felippe Nobre e bem vindo meu prefil 😎
 
-- 🌱 estudando fron-end
+- 🌱 estudando back-end
 
 
 ![evenogueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felippe-nobre&show_icons=true&theme=dracula)
