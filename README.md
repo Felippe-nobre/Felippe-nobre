@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h1 align="center">Seja Bem vindo ao meu prefil!!</h1>
 
 ###
@@ -7,6 +9,13 @@
 ###
 
 <h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felippe-nobre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felippe-nobre&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -49,9 +58,7 @@
 <h1 align="left"></h1>
 
 ###
-![bc87e5124f8d2cfe810d403adc96ad01](https://github.com/user-attachments/assets/493d5d7a-c4ea-4ea4-841f-af63d930091b)
+
 <h1 align="left"></h1>
-
-
 
 ###
