@@ -1,6 +1,10 @@
-<br clear="both">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=524&lines=Bem-vindo+ao+meu+perfil" alt="Typing SVG">
+  </a>
+</div>
 
-<h1 align="center">Seja Bem vindo ao meu prefil!!</h1>
+<img align="center" alt="" src="./src/header-gif.gif">
 
 ###
 
