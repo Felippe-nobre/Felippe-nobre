@@ -68,8 +68,3 @@
 </picture>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q103ixf7czb71g1osxhgw879m)
-
-
-###
