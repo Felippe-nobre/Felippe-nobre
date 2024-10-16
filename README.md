@@ -67,6 +67,12 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felippe-Nobre/Felippe-Nobre/output/github-contribution-grid-snake.svg">
 </picture>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=q103ixf7czb71g1osxhgw879m)
+
+
+
+
+
 ###
 
 
